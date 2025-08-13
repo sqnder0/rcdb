@@ -131,6 +131,7 @@ The scraper targets the `id="rrc_text"` element on the RCDB homepage. If RCDB ch
 Currently, all scraping is on-demand or once per day. Heavy usage of `/rcdblist` with a large amount could stress RCDB; consider capping `amount` or adding short sleeps.
 
 ## License
+https://raw.githubusercontent.com/sqnder0/rcdb/refs/heads/master/LICENSE
 
 ---
 
