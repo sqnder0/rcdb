@@ -1,0 +1,11 @@
+# Random Roller Coaster
+**Roller Coaster:** [Boomerang](https://rcdb.com/1321.htm)
+**Park**: Parque de la Costa
+**Location**: Tigre, Buenos Aires, Argentina
+**Status**: Operating
+**Inversions**: 
+**Speed**: 47
+**Height**: 116.5
+**Length**: 935
+**G-Force**: 5.2
+**Manufacturer**: Vekoma

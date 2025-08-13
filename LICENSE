@@ -1,0 +1,47 @@
+Coaster of the Day Bot – Custom License v1.0 (2025-08-13)
+
+Copyright (c) 2025 sqnder\_
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, run, study, and modify the Software for deployment in PRIVATE GUILDS under the conditions below.
+
+DEFINITIONS
+
+1. "Private Guild" means a Discord server that is not broadly advertised for general public access and where membership is controlled (invite-only, closed community, internal / friends / organizational use).
+2. "Public Guild" means any Discord server that is publicly promoted, open to the general public, used for brand / community outreach, or whose join link is intentionally distributed publicly (social media, websites, directories, large advertising, etc.). If in doubt, treat the guild as Public.
+3. "Official Bot" means the original hosted instance of this project, invite link: https://discord.com/oauth2/authorize?client_id=1249065250720972891
+4. "Derivative Work" means any modification, fork, or integration containing a substantial portion of the Software.
+
+GRANT OF RIGHTS (PRIVATE GUILDS)
+Subject to compliance with this License, you may for any Private Guild:
+a. Run and operate your own instance of the Software.
+b. Modify the Software for personal / internal needs.
+c. Keep the source private or share it with a limited private audience.
+
+PUBLIC GUILD CONDITION
+Deployment or operation of the Software (or any Derivative Work providing materially similar "Coaster of the Day" or RCDB scraping features) in a Public Guild is ONLY permitted if the Official Bot is also invited to (and remains present in) that guild OR you have received explicit written permission from the original author. Removal of the Official Bot without obtaining permission terminates your rights to continue operating your own instance in that Public Guild.
+
+REDISTRIBUTION
+You may share unmodified source code privately. Public redistribution (e.g., publishing a fork, posting packaged releases) must retain this License text and attribution. You may NOT remove or alter this License in copies.
+
+RCDB NOTICE
+This project scrapes data from rcdb.com. RCDB content, trademarks, and related intellectual property are the property of their respective owners. This Software is an independent project and is not endorsed by or affiliated with RCDB. You are responsible for ensuring continued compliance with RCDB's terms, robots directives, and fair-use principles.
+
+NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+LIMITATION OF LIABILITY
+To the maximum extent permitted by law, the authors shall not be liable for any indirect, incidental, consequential, special, exemplary, or punitive damages, or lost profits, even if advised of the possibility of such damages.
+
+TERMINATION
+Any breach of the Public Guild condition or removal / alteration of this License text automatically terminates all rights granted herein. Upon termination you must cease all Public Guild operation of the Software and destroy any Public Guild deployment artifacts.
+
+RESERVATION OF RIGHTS
+All rights not expressly granted are reserved by the author.
+
+HOW TO OBTAIN PUBLIC PERMISSION
+Contact the original author (e.g., via the Official Bot support channel or repository contact method) to request a waiver or alternative commercial / public license if you cannot satisfy the Official Bot presence requirement.
+
+ACKNOWLEDGMENT
+By using or deploying the Software you acknowledge you have read and agree to these terms.
+
+END OF LICENSE
