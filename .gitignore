@@ -1,3 +1,6 @@
+# Any settings should be ignored
+cod/
+
 # Ignore .env file
 .env
 
